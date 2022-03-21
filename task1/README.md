@@ -12,4 +12,7 @@
 
 
 4- Resources ? 
-https://www.sololearn.com/Discuss/1465240/define-a-function-that-can-accept-two-strings-as-input-and-print-the-string-with-maximum-length
+https://www.sololearn.com/
+https://www.geeksforgeeks.org/
+https://www.pythonchecker.com/
+https://www.educative.io/
